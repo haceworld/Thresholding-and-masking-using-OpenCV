@@ -1,4 +1,4 @@
-# Thresholding-and-masking-in-OpenCV
+# Thresholding-and-masking-using-OpenCV
 Image Thresholding is used for image segmentation. From a grayscale image, thresholding can be used to create binary images. 
 In thresholding we pick a threshold T. 
 
